@@ -1,0 +1,13 @@
+.vscode/*
+.history/
+*.vsix
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+.idea
+*.iml
+out
+gen
+rust-project.json

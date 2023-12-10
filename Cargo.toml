@@ -1,0 +1,12 @@
+[package]
+name = "modcraft-game"
+version = "0.1.0"
+authors = ["Josh Bedwell <rcxwhiz@gmail.com>"]
+edition = "2021"
+description = "A voxel toy game written in bevy"
+repository = "https://github.com/modcraft-rs/modcraft-game"
+license = "GPL-3.0-only"
+keywords = ["game", "bevy", "voxel"]
+categories = ["games"]
+
+[dependencies]
